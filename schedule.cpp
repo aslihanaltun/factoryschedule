@@ -1,12 +1,5 @@
-// Aslýhan Altun
-// 1306200094
-// Tarih: 06.06.2021
-// Geliþtirme Ortamý: Visual Studio2019
-// Yazdýðým programda aciliyeti duration/deadline'a göre belirlemeye çalýþtým. Sipariþlerin ayrý ayrý sýralamasýnda da, operasyon kodlarýnýn
-// kendi aralarýndaki sýralamasýnda da bu yöntem ile aciliyeti belirlemeye çalýþtým. Fakat ranking fonksiyonundaki çözemediðim bir problemden dolayý 
-// küçük data setlerde istediðim gibi çalýþmasýna raðmen büyük data setlerde orderlarýn yarýsýna kadar sadece operasyon koduna göre sýralama yapýyor.
-// Devamýnda ise istediðim sýralama ile devam ediyor.O kýsmýn algoritmasýnda sorun yaþadým. Fakat soruna raðmen order sýralamasýný min deadline first 
-// veya max duration first mantýðýna kýyasla büyük ölçüde azaldý. 
+// Date: 06.06.2021
+// Development Enviroment: Visual Studio2019
 
 #include <iostream>
 #include <fstream>

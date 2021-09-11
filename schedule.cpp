@@ -38,7 +38,6 @@ struct Setup {
 	int s_duration;
 };
 
-
 struct Order {
 	int ordercode;
 	int amount;
